@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+         <meta charset="UTF-8"></meta>
+	    <title>Homepage</title>
+        <link rel="stylesheet" type="text/css" href="layout.css">
+    </head>
+    <body>
+        <br/>
+        <hr id="h"></hr>
+        <div style="font-size:15pt" id="wh">WeHelp Bootcamp Application</div>
+        <div id="frame0">
+        <div id="mypic">
+             <img id="my"src="IMG_3299.jpg" alt="" width="180px"/>
+        </div>
+            <div id="hi" style="text-align:right">
+                <div id="hii"><b>Hi,</b></div>
+                <div id="i">I am</div>
+                <div id="m"><br/><b>Miranda</b><br/></div>
+                <div id="lin">林子丘。</div>
+            </div>
+        </div>
+        <!--1-->
+        <div class="frame">
+            <div class="left">
+                <div id="myanimoji">
+                     <img id="emoji"src="Emoji.gif" alt="" width="170px"/>
+                     <img id="mac" src="mac-memoji.png"alt=""width="250px"/>
+                </div>
+            </div>
+            <div class="right">
+                <div class="answer1">
+                    <h3 id="q1">個人簡介</h3>
+                    <p>今年27歲，畢業於逢甲大學環境工程系、修習工業設計兩年；
+                        具甲級廢水處理執照、模型搭建及渲染、平面ps、ai繪圖、專案管理專長。<br/>
+                        曾任職於環工顧問公司，承辦廢水及空汙專責人員證照訓練班、協助政府環保相關標案執行及設計圖繪製。<br/>
+                        目前育有一女未滿一歲，育兒之餘，喜愛閱讀、學習英文、慢跑打球游泳，
+                        產女後對於未來職涯規劃想法有所變動，學設計時偶然認識程式語言即列入待學清單，
+                        幾個月前開始自學python、閱讀演算法及電腦科學相關知識，對程式語言愈發有趣，計畫托嬰後轉職軟體工程師。
+                    </p>
+                </div>
+            </div>
+        </div>
+       
+        <!--2-->
+        <div><h3 id="q2">做過什麼努力？</h3></div>
+        <div id="frame2">
+            <div class="box">
+                <div><h3 class="header">心態上</h3></div>
+                <div><p class="p2">透過學習程式語言一併增進英文，強迫使用w3schools檢索、上哈佛CS50P公開課...英文授課課程。</p></div>
+            </div>
+            <div class="space"></div>
+            <div class="box">
+                <div><h3 class="header">生活上</h3></div>
+                <div><p class="p2">搭配嬰兒作息，養成每天學寫程式習慣，
+                    零碎時間利用手機freecodecamp解題。</p></div>
+            </div>
+            <div class="space"></div>
+            <div class="box">
+                <div><h3 class="header">資源上</h3></div>
+                <div><p class="p2">重複觀看youtube、coursera、udemy上有幫助的教學內容、實際動手操作。</p></div>
+            </div>
+        </div>
+
+        <!--3-->
+        <div><h3 id="q3">怎麼安排學習時間？</h3>
+             <p id="a3">已養成學習習慣在每日安排的固定時間，期待有專案可以製作，增加早起動力、<br/>目標建立早晨5:30開始的學習系統。</p>
+         </div>
+        <!--4-->
+        <div id="frame4">
+            <div id="space4"></div>
+            <div id="left4">
+                <div id="google">
+                    <img src="google.jpg"width="400px"/>
+                </div>
+                <div id="a41">
+                    <h3 id="q41">是否有想加入的軟體公司？為什麼？</h3>
+                    <p id="a412">一開始想說是Google吧，那一直是Dream job；<br/>
+                        但再仔細想想，以I'm a googler的心態學習，<br/>
+                        並不比以我這個個人公司的心態學習來得盡興。</p>
+                </div>
+            </div>
+            <div id="right4">
+                <div id="a42">
+                <p id="a421">最想加入我這個個人公司，精進自己並盡己所能助人，
+                    做的事剛好是這個世界需要的也剛好是別人願意付費的。</p>
+                </div>
+                <div id="noogle">
+                <img src="nooglehat.jpg"width="180px"/>
+                </div>
+            </div>
+            
+        </div>
+        
+         <!--5-->
+         <div id="frame5">
+            <div id="space5"></div>
+            <div>
+            <div id="leftspace"></div>
+                <div id="left5">
+                    <h3 class="q5">曾碰到最困難的事情。</h3>
+                    <p class="a5">大三開始每週末台中往返台北學工業設計，
+                        畢業後工作第一年，下班及週末皆在補習班度過，
+                        有一回其中一門很重視的主修課程結束，到發表當天仍沒有做出滿意的成果，最後沒有出席，
+                        沒有盡全力達到自己的要求，辜負自己且失去信用，心裡貼上一個失敗者的標籤。</p>
+                </div>
+            </div>
+            <div>
+            <div id="rightspace"></div>
+                <div id="right5">
+                    <h3 class="q5">如何克服？</h3>
+                    <p class="a5">花了一段時間反思、體會經歷的大小難關，發現自己太急於成果，過程不夠用心，
+                        從此時常提醒自己，把握每分每秒體會在當下過程，對行動要沒有耐心、對結果要有耐心，
+                        讓結果自然而然，並且用不同角度檢視其中不只一種收穫。</p>
+                </div>
+            </div>
+         </div>
+        <!--6-->
+        <div id="frame6">
+        <div id="space6">
+            <div id="left6">
+                <img id="css" src="css.png"alt=""width="120px"/> 
+            </div>
+            <div id="right6">
+                <div id="s6">
+                    <h3 id="q6">關於這份申請網頁，請分享一個你開發時的技術心得。</h3>
+                    <p id="a6">CSS中的flex很多教學影片都講得清楚易懂，
+                        實際應用設定主、次軸的水平、垂直屬性，再搭配float的前後空間感很容易混亂，還要再花時間思考、練習。
+                    大致上做好之後才發現不同螢幕大小問題，希望之後可以製作成RWD網頁，</p>
+                </div>
+            </div>
+        </div>
+        </div>
+        <!--7-->
+        <hr width="960px" color="AntiqueWhite" ></h>
+        <div id="frame7">
+            <div id="q7"><h3>其他想要對我們說的事情？</h3></div>
+            <div id="a7"><p>第一次使用html、css作網頁，希望能得到一些feedback以利後續檢討改進學習，
+                將非常感激！也謝謝您們提供這個機會。<a href="mailto:miranda570728@gmail.com" >Gmail信箱</a></p></div>
+        </div>
+    </body>
+</html> 
