@@ -1,0 +1,363 @@
+#h{
+    color: rgb(190, 172, 149);
+    border: 1px solid;
+    width: 960px;
+}
+#wh{
+    align-items: center;
+    background-color: white;
+    width: 350px;
+    margin-top: -30px;
+    text-align:center;
+    color: rgb(140, 102, 7);
+    margin-left: 340px;
+}
+#frame0{
+    display: flex;
+    height: 450px;
+}
+#hi{
+    margin-left: -460px;
+    margin-top: 90px;
+    color: rgb(98, 72, 5);
+    width: 300px;
+    font-size: 30px;
+    position: relative;
+}
+#hii{
+    font-size: 60px;
+    margin-right: 25px;
+    margin-top: -30px;
+}
+#i{
+    margin-right: -30px;
+    font-size: 20px;
+}
+#m{
+    margin-right: -265px;
+    margin-top: 120px;
+    font-size: 25px;
+}
+#lin{
+    margin-right: -250px;
+    margin-top: -60px;
+    font-size: 20px;
+}
+#mypic{
+    margin-left: 430px;
+    
+}
+#my{
+    margin-top: 100px;
+}
+.frame{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.left{
+    background-color: rgb(230, 214, 199);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: 400px;
+    direction: rtl;
+}
+#q1{
+    color: aliceblue;
+    opacity: 0.8;
+    letter-spacing: 1px;
+}
+#myanimoji{
+    font-display: flex;
+    background-color:white;
+    width: 220px;
+    height:320px;
+    border-radius: 100px 100px 0px 0px;
+}
+#emoji{
+    font-display: flex;
+    padding-top: 50px;
+    padding-right: 20px;
+    border-radius: 60px 60px 0px 0px;
+}
+#mac{
+    position: relative;
+    bottom:63px;
+    left:20px;
+}
+.right{
+    background-color:rgb(230, 214, 199);
+    width: 560px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.answer1{
+    flex: auto;
+    line-height:30px;
+    padding-top: 3%;
+    padding-left: 10px;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    color:rgb(100, 86, 63)
+}
+#frame2{
+    display: flex;
+    width: auto;
+    height: 300px;
+    justify-content: center;
+    padding-top: 25px;
+}
+#q2{
+    opacity: 0.5;
+    color: rgb(102, 92, 80);
+    position: relative;
+    text-align:center;
+    top: 50px;
+    letter-spacing: 1px;
+}
+.box{
+    margin-top: 30px;
+    background-color: rgb(238, 235, 235);
+    width: 250px;
+    height: 250px;
+    text-align:center;
+}
+.space{
+    width: 40px;
+    height: 250px;
+}
+.header{
+    padding-top: 30px;
+    margin-bottom: 15px;
+    color:rgb(171, 169, 169);
+    opacity: 0.7;
+    letter-spacing: 1px;
+}
+.p2{
+    color: rgb(130, 129, 129);
+    padding-left: 25px;
+    padding-right: 25px;
+    line-height:25px;
+}
+#q3{
+    margin-top: 35px;
+    padding-top: 20px;
+    opacity: 0.5;
+    color: rgb(102, 92, 80);
+    text-align:center;
+    letter-spacing: 1px;
+}
+#a3{
+    text-align:center;
+    height: 80px;
+    line-height: 30px;
+    color: rgb(76, 65, 47);
+}
+#frame4{
+    position: relative;
+    display: flex;
+    width: auto;
+    height: 600px;
+    justify-content: center;
+    
+}
+#left4{
+    align-items:flex-end;
+    width: 300px;
+    height: 400px;
+    padding-right: 30px;
+    padding-top: 80px;
+}
+#google{
+    margin-top: -10px;
+    position: relative;
+    float: right;
+}
+#a41{
+    margin-right: -10px;
+    float: right;
+    width: 400px;
+}
+#q41{
+    margin-right: -20px;
+    margin-top:70px;
+    opacity: 0.5;
+    color: rgb(138, 160, 179) ;
+    letter-spacing: 1px;
+}
+#a412{
+    padding-left: 5px;
+    margin-top: -10px;
+    position: relative;
+    color: rgb(111, 134, 153) ;
+    line-height:25px;
+}
+#right4{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 300px;
+    height: 400px;
+    padding-left: 30px;
+    bottom: 40px;
+    float:left;
+}
+#a42{
+    position: relative;
+}
+#noogle{
+    position: relative;
+    margin-bottom: -130px;
+}
+#a421{
+    margin-bottom: 30px;
+    color:rgb(107, 119, 130) ;
+    width: 350px;
+    line-height:25px;
+}
+#space4{
+    background-color:rgb(199, 216, 230) ;
+    height: 220px;
+    width: 650px;
+    margin-top: 150px;
+    margin-right: -170px;
+    position: absolute;
+}
+#frame5{
+    position: relative;
+    display: flex;
+    width: auto;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+#space5{
+    background-color: rgb(222, 221, 221);
+    width: 960px;
+    height: 220px;
+    margin-top: -120px;
+    position: absolute;
+}
+.q5{
+    margin-top: 30px;
+    position: relative;
+    opacity: 0.5;
+    color: rgb(138, 160, 179) ;
+    letter-spacing: 1px;
+}
+.a5{
+    margin-top: -10px;
+    position: relative;
+    color:rgb(107, 119, 130) ;
+    line-height:25px;
+}
+#left5{
+    margin-top: 125px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 10px;
+    width: 280px;
+    height: 280px;
+    position: relative;
+    background-color: white;
+}
+#right5{
+    margin-top:125px;
+    margin-left: 40px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 10px;
+    width: 280px;
+    height: 280px;
+    position: relative;
+    background-color: white;
+}
+#leftspace{
+    background-color: rgb(175, 173, 173);
+    width: 230px;
+    height: 230px;
+    margin-top: 110px;
+    margin-left:-20px;
+    position: absolute;
+}
+#rightspace{
+    background-color: rgb(175, 173, 173);
+    width: 230px;
+    height: 230px;
+    margin-top: 200px;
+    margin-left: 170px;
+    position: absolute;
+}
+#frame6{
+    display: flex;
+    width: auto;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+#space6{
+    display: flex;
+    background-color: rgb(190, 207, 227);
+    width: 960px;
+    height: 150px;
+    margin-top: 80px;
+    justify-content: center;
+    align-items: center;
+}
+#left6{
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-top: -10px;
+    margin-left: -20px;
+    width: 150px;
+    height: 160px;
+    background-color: white;
+}
+#css{
+    margin-left: 10px;
+    margin-top: -23px;
+    opacity: 0.5;
+}
+#s6{
+    position: relative;
+    width: 550px;
+    height: 100px;
+}
+#q6{
+    margin-top: -105px;
+    padding-left: 30px;
+    opacity: 0.6;
+    color: rgb(103, 114, 136);
+    letter-spacing: 1px;
+}
+#a6{
+    padding-left: 30px;
+    color:rgb(70, 81, 91) ;
+    line-height:25px;
+}
+#frame7{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: 150px;
+    align-items: center;
+    margin-top: 30px;
+}
+#q7{
+    letter-spacing: 1px;
+    margin-top: -10px;
+    padding-left: 50px;
+    width: 960px;
+    height: 20px;
+    color: rgb(160, 141, 123);
+}
+#a7{
+    padding-top: 20px;
+    padding-left: 50px;
+    width: 960px;
+    height: 20px;
+    color: rgb(165, 149, 127);
+    line-height:25px;
+}
